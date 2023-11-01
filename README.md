@@ -1,9 +1,10 @@
-# laba5
-Скачать:
+# laba5			
+1. Скачать:
 pip install numpy
 pip install pandas 
 pip install matplotlib
+pip install IPython
 pip install notebook
-Запускаеться с помощью команды:
+3. Запускаеться с помощью команды:
 jupyter-notebook
-Загрузить все файлы в jupyter
+4. Загрузить все файлы в jupyter
