@@ -5,6 +5,6 @@
   pip install matplotlib    
   pip install IPython  
   pip install notebook  
-3. Запускаеться с помощью команды:  
+2. Запускаеться с помощью команды:  
   jupyter-notebook  
-4. Загрузить все файлы в jupyter  
+3. Загрузить все файлы в jupyter  
