@@ -1,5 +1,5 @@
 # laba5			
-1. Скачать:
+1. Скачать:  
   pip install numpy  
   pip install pandas 
   pip install matplotlib  
